@@ -11,7 +11,7 @@ categories: jekyll update
 ## App Đại lý
 
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="[https://github.com/trantienhd97/vinaseed-dark/releases/download/untagged-3e6f6dddafa3d9336702/VinaseedNhanVien.apk]">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/trantienhd97/vinaseed-dark/releases/download/untagged-3e6f6dddafa3d9336702/VinaseedNhanVien.apk">
   Android
 </a>
 
@@ -24,7 +24,7 @@ categories: jekyll update
 
 
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="[https://github.com/trantienhd97/vinaseed-dark/releases/download/untagged-3e6f6dddafa3d9336702/VinaseedNhanVien.apk]">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/trantienhd97/vinaseed-dark/releases/download/untagged-3e6f6dddafa3d9336702/VinaseedNhanVien.apk">
   Android
 </a>
 
