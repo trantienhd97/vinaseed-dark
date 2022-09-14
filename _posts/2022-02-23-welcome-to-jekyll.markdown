@@ -24,7 +24,7 @@ categories: jekyll update
 
 
 <div class="d-flex justify-content-center">
-<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/trantienhd97/vinaseed-dev/releases/download/dev/VinasedNhanVien.apk">
+<a role="button" class="btn btn-primary mx-2 my-4" href="https://github.com/trantienhd97/vinaseed-dev/releases/download/dev/VinaseedNhanVien.apk">
   Android
 </a>
 
